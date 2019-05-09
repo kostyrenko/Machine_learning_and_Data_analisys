@@ -10,3 +10,5 @@
 В основном текстовая классификация и анализ тональности.
 ### 2.1. [Классификация кулинарных рецептов по странам происхождения](../master/recipe%20ingredients%20classification.ipynb)
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/recipe%20ingredients%20classification.ipynb)
+### 2.2. [Парсинг и анализ тональности отзывов о мобильных телефонах](../master/review_scrapping_and_classification.ipynb)
+[Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/review_scrapping_and_classification.ipynb)
