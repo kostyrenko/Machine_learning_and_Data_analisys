@@ -14,6 +14,6 @@
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/review_scrapping_and_classification.ipynb)
 
 ## 3. Нейронные сети и глубокое обучение.
-
-### 3.1. [Распознование рукописных цифр (MNIST Dataset)](../master/recipe%20ingredients%20classification.ipynb)
-[Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/recipe%20ingredients%20classification.ipynb)
+Работа с изображениями.
+### 3.1. [Распознование рукописных цифр (MNIST Dataset)](../master/mnist-db-using-keras.ipynb)
+[Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/rmnist-db-using-keras.ipynb)
