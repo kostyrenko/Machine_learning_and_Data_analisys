@@ -16,4 +16,4 @@
 ## 3. Нейронные сети и глубокое обучение.
 Работа с изображениями.
 ### 3.1. [Распознование рукописных цифр (MNIST Dataset)](../master/mnist-db-using-keras.ipynb)
-[Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/rmnist-db-using-keras.ipynb)
+[Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/mnist-db-using-keras.ipynb)
