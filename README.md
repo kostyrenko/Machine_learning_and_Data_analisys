@@ -22,5 +22,5 @@
 
 ## 4. Кластеризация.
 Обучение без учителя.
-### 3.1. [Кластеризация географических координат для размещения рекламных баннеров](../master/Banners-Clusterizing.ipynb)
+### 4.1. [Кластеризация географических координат для размещения рекламных баннеров](../master/Banners-Clusterizing.ipynb)
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/Banners-Clusterizing.ipynb)
