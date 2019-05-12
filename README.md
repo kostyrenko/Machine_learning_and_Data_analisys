@@ -12,7 +12,7 @@
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/recipe%20ingredients%20classification.ipynb)
 ### 2.2. [Парсинг и анализ тональности отзывов о мобильных телефонах](../master/review_scrapping_and_classification.ipynb)
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/review_scrapping_and_classification.ipynb)
-### 2.3. [Классификация токсичных (нецензурных) комментариев в викепедии](../master/toxic_comments_classification.ipynb)
+### 2.3. [Классификация токсичных (нецензурных) комментариев в википедии](../master/toxic_comments_classification.ipynb)
 [Ссылка на nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/kostyrenko/Machine_learning_and_Data_analisys/blob/master/toxic_comments_classification.ipynb)
 
 ## 3. Нейронные сети и глубокое обучение.
